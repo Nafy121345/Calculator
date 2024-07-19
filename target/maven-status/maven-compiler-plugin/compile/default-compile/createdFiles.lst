@@ -1,0 +1,7 @@
+sg\nus\edu\calculator\service\CoinCalculatorServiceImpl.class
+sg\nus\edu\calculator\config\CoinCalculatorConfiguration.class
+sg\nus\edu\calculator\resource\CoinCalculatorResource.class
+sg\nus\edu\calculator\service\CoinCalculatorService.class
+sg\nus\edu\calculator\CoinCalculatorApplication.class
+sg\nus\edu\calculator\model\CoinCalculationRequest.class
+sg\nus\edu\calculator\model\CoinCalculationResponse.class
